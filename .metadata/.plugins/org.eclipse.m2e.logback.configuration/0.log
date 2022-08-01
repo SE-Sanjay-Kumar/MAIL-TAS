@@ -1,0 +1,20 @@
+2022-05-23 14:11:19,481 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-23 14:11:59,513 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanjay:smtp:0.0.1-SNAPSHOT @ C:\Users\Syed Mubarak\eclipse-workspace\Project\smtp\pom.xml.
+2022-05-23 14:11:59,544 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanjay:smtp:0.0.1-SNAPSHOT @ C:\Users\Syed Mubarak\eclipse-workspace\Project\smtp\pom.xml.
+2022-05-23 14:12:00,637 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 14:12:00,641 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Syed Mubarak\eclipse-workspace\Project\smtp\src\main\resources
+2022-05-23 14:12:00,645 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 14:12:00,647 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Syed Mubarak\eclipse-workspace\Project\smtp\src\test\resources
+2022-05-23 14:12:03,379 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanjay:smtp:0.0.1-SNAPSHOT @ C:\Users\Syed Mubarak\eclipse-workspace\Project\smtp\pom.xml.
+2022-05-23 14:12:03,878 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 14:12:03,880 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Syed Mubarak\eclipse-workspace\Project\smtp\src\main\resources
+2022-05-23 14:12:03,886 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 14:12:03,887 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Syed Mubarak\eclipse-workspace\Project\smtp\src\test\resources
+2022-05-23 14:12:05,067 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 14:12:05,067 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Syed Mubarak\eclipse-workspace\Project\smtp\src\main\resources
+2022-05-23 14:12:05,071 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 14:12:05,071 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Syed Mubarak\eclipse-workspace\Project\smtp\src\test\resources
+2022-05-23 14:12:08,131 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 14:12:08,131 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Syed Mubarak\eclipse-workspace\Project\smtp\src\main\resources
+2022-05-23 14:12:08,133 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 14:12:08,134 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Syed Mubarak\eclipse-workspace\Project\smtp\src\test\resources
